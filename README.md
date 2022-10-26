@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/ClementG77/ClementG77/master/header.png)
+![Banner Image](https://github.com/ClementG77/ClementG77/blob/main/header.png)
 
 ## Hi there 👋
 
