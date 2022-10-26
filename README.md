@@ -2,26 +2,20 @@
 
 ## Hi there 👋
 
+I am **Clement**  a new **Fullstack Developer** . **Skilled in Javascript, React JS, NodeJS, SQL, Ether JS, PSD to HTML, User Experience, PHP, and Solidity.** Strong engineering professional with an international Bachelor of Computer science focused in web Developement / Front End Developer from Via University College.
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cl%C3%A9ment-guyonnet-4035101b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/clement7700/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+
+[![Linkedin: Ghazi](https://img.shields.io/badge/-Clement-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cl%C3%A9ment-guyonnet-4035101b9/)](https://www.linkedin.com/in/cl%C3%A9ment-guyonnet-4035101b9/)
+  
+[![GitHub Clement](https://img.shields.io/github/followers/ClementG77?label=follow&style=social)](https://github.com/ClementG77)
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementG77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning **Solidity - Blockchain**
+- 👯 I’m looking to cwork as a Web Developer
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementG77&layout=compact&theme=dark&hide_border=true)
+
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=ClementG77&show_icons=true&hide_border=true&theme=dark)
 
 
-<!--
-**ClementG77/ClementG77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
