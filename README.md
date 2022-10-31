@@ -12,7 +12,7 @@ I am **Clement**  a new **Fullstack Developer** . **Skilled in Javascript, React
 </p>
 
 - 🌱 I’m currently learning **Solidity - Blockchain**
-- 👯 I’m looking to cwork as a Web Developer
+- 👯 I’m looking to work as a Web Developer
 
 ![Top Langs](https://github-readme-stats-alpha-puce.vercel.app/api/top-langs/?username=ClementG77&layout=compact&theme=dark&hide_border=true)
 
